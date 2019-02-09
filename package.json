@@ -1,0 +1,15 @@
+{
+  "name": "api-node-koa-clean-architecture",
+  "version": "0.0.1",
+  "description": "Research of koa library using clean architecture ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laurazenc@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
